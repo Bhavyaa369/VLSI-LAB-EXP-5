@@ -1,12 +1,11 @@
-EXP-1
+ EXP-1
 
-DATE:
-                              
-                               SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE
+ DATE: 
+               SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE
 
 **AIM:** 
 
-To simulate and synthesis finite state machine using Xilinx ISE.
+To simulate and synthesis finite state machine using vivado.
 
 **APPARATUS REQUIRED:**
 
@@ -107,4 +106,5 @@ endmodule
 **RESULT:**
 
 Thus,the simulation and synthesis of finite state machine by using vivado has been successfully excecuted and verified.
+
 
