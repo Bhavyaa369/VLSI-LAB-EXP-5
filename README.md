@@ -1,6 +1,7 @@
  EXP-1
 
  DATE: 
+              
                SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE
 
 **AIM:** 
