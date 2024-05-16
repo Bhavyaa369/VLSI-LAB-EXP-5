@@ -1,5 +1,8 @@
-# VLSI-LAB-EXP-5
-# SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE
+EXP-1
+
+DATE:
+                              
+                               SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE
 
 **AIM:** 
 
@@ -104,5 +107,4 @@ endmodule
 **RESULT:**
 
 Thus,the simulation and synthesis of finite state machine by using vivado has been successfully excecuted and verified.
-
 
